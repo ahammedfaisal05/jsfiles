@@ -46,3 +46,19 @@
 
 // console.log(food1);
 // console.log(food2);
+
+
+
+
+// let food = ['alo','potol','lao','kumra','Begun'];
+// let good = 'good Boy';
+
+// console.log(food);
+// console.log(food.sort());    //using sort array
+// console.log(food.join('/'));   //using join array
+// console.log(food.reverse());   //using reverse array
+// console.log(food.includes('potol'));   //using includes array. er kaj holo array er moddhe real data er true false find kora.
+// console.log(Array.isArray(food));
+// console.log(Array.isArray(good));
+//console.log(food.lastIndexOf('lao'));
+//console.log(food.indexOf('alo'));
