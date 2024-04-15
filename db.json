@@ -1,0 +1,47 @@
+{
+    "name" : "Ahammed Faisal",
+    "age" : 5,
+    "skill" : "MERN Developer",
+    "marrage" : false,
+    "foods" : ["alu","potol","lao","kumra"],
+    "payment" : null,
+    "result" : {
+        "bn" : 50,
+        "en" : 56
+    },
+    "students" : [
+        {
+            "id" : 1,
+            "skill" : "MERN",
+            "experience" : "five year"
+        },
+        {
+            "id" : 1,
+            "skill" : "MERN",
+            "experience" : "five year"
+        },
+        {
+            "id" : 1,
+            "skill" : "MERN",
+            "experience" : "five year"
+        }
+    ],
+
+    "teachers" : [
+        {
+            "id" : 1,
+            "skill" : "MERN",
+            "experience" : "five year"
+        },
+        {
+            "id" : 1,
+            "skill" : "MERN",
+            "experience" : "five year"
+        },
+        {
+            "id" : 1,
+            "skill" : "MERN",
+            "experience" : "five year"
+        }
+    ]
+}
