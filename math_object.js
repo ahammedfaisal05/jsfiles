@@ -21,3 +21,5 @@ console.log(Math.max(12,34,55,677,23,1111));
 console.log(Math.sqrt(9));//'sqrt' method square root kore.
 console.log(Math.pow(9,2));//'pow' method power use kora hoy.
 console.log(Math.random()*1000);
+
+

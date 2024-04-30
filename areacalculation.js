@@ -1,4 +1,4 @@
-console.log(areacal('r', 20,10));
-console.log(areacal('t', 10,12));
-console.log(areacal('s', 10));
-console.log(areacal('c', 14));
+ console.log(areaCal('r', 20,10));
+ console.log(areaCal('t', 10,12));
+ console.log(areaCal('s', 10));
+ console.log(areaCal('c', 14));

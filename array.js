@@ -50,15 +50,19 @@
 
 
 
-// let food = ['alo','potol','lao','kumra','Begun'];
+ let food = ['alo','potol','lao','kumra','Begun'];
+ let fish = ['chitol','rui','koi','ilish','katla'];
+ let flowers = ['Hasnahena','shapla','golap','jui','beli'];
 // let good = 'good Boy';
-
+//let f3 = [...food, ...fish, ...flowers]; // Concat, ...is called spreed operation
+//console.log(f3);
 // console.log(food);
-// console.log(food.sort());    //using sort array
+//console.log(food.toString()); // Using toString funcion get output(,)automaticly .  
+//console.log(food.sort());    //using sort array
 // console.log(food.join('/'));   //using join array
-// console.log(food.reverse());   //using reverse array
-// console.log(food.includes('potol'));   //using includes array. er kaj holo array er moddhe real data er true false find kora.
-// console.log(Array.isArray(food));
+//console.log(food.reverse());   //using reverse array
+//console.log(food.includes('Potol'));   //using includes array. er kaj holo array er moddhe real data er true false find kora.
+// console.log(Array.isArray(food)); //kono variable er moddhe array type er datache kina check korbo isArray function diye.
 // console.log(Array.isArray(good));
 //console.log(food.lastIndexOf('lao'));
 //console.log(food.indexOf('alo'));

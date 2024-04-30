@@ -133,7 +133,7 @@
 //     return `hi my name is ${name}`;
 // }
 // 3.//Arrow function
-// let agecal = () => {
+// let agecal = (name) => {
 //     return `hi my name is ${name}`;
 // }
 
@@ -144,7 +144,7 @@
 console.log(Devsinfo('faisal','MERNnnnn',34));*/
 
 /** Ractangle & triangle area...Arrow function..*/ 
-const areacal = (type, val1, val2) =>{
+const areaCal = (type, val1, val2 = null) =>{
     let shape ='';
     let area ='';
     switch(type){
@@ -168,5 +168,6 @@ const areacal = (type, val1, val2) =>{
             area = 3.1416 * (val1 * val1);
             break
     }
-    return(`This is ${shape} and it's area is ${area}`)
+  console.log(`This is ${shape} and it's area is ${area}`); 
 }
+

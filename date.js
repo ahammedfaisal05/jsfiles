@@ -16,5 +16,5 @@ console.log(`
     ${ hour === 0 ? 12 : hour }:${date.getMinutes()}:${date.getSeconds()}:${ampm}
     ${month[date.getMonth()]}// month ber korar jonno arry us kora hoyeche; ${date.getDate()}, ${date.getFullYear()}
     ${date.getTime()} //1970 sal theke present time porjonto milisecende count kora hoy;
-    ${days[date.getUTCDay()]}// week name ber korar method;
+    ${days[date.getDay()]}// week name ber korar method;
 `);
