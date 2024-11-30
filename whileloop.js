@@ -16,4 +16,9 @@ while(i < 12){
     console.log(`${i + 1}. ${month[i]}`);
     i++
 }
+
+//for loop practics
+for(i = 0 ; i < 100; i++){
+    console.log(i+1,"sorry");
+}
 console.log('progrm ended');
